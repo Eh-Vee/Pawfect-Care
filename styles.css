@@ -35,3 +35,33 @@ nav a {
   margin: 1rem 0;
   border-radius: 8px;
 }
+
+.card:hover {
+  background-color: #4caf50;
+}
+
+a:hover,
+a:active{
+  color: black;
+}
+
+.map {
+  background: #f9f9f9;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+}
+
+p a {
+  text-decoration: none;
+  color: #4caf50;
+  padding: 1rem;
+  margin: 1rem 0;
+  border: 1px solid #4caf50;
+  border-radius: 8px;
+}
+
+p a:hover {
+  background: #4caf50;
+  color: whitesmoke;
+}
